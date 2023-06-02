@@ -1,5 +1,5 @@
 # CPU_Scheduling
-A CPU Scheduler implemented through operating systems basics in c 
+A CPU Scheduler implemented through operating systems basics in c++
 
 
 Implement the following CPU Scheduling algorithms and choose parameters (i.e waiting time burst time etc) for CPU Scheduling accordingly.
